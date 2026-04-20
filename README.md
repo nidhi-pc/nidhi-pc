@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate about painting and creative design!<br>Learned HTML, CSS and C++<br>Currently learning Python and SQL<br>
+Passionate about painting and creative design!<br>Learned HTML, CSS and C++<br>Currently learning Javacsript and Python<br>
 
 
 ## 🌐 Socials:
